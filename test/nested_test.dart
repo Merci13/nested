@@ -1,6 +1,6 @@
-import 'package:flutter/foundation.dart';
-import 'package:flutter/material.dart' hide TypeMatcher;
-import 'package:flutter_test/flutter_test.dart';
+import 'package:flutter_web/foundation.dart';
+import 'package:flutter_web/material.dart' hide TypeMatcher;
+import 'package:flutter_web_test/flutter_web_test.dart';
 import 'package:matcher/matcher.dart';
 import 'package:nested/nested.dart';
 
